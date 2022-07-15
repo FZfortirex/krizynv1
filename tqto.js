@@ -4,13 +4,8 @@ BIG THANKS TO
 
 • Allah swt
 • My ortu
-• Nurutomo
-• Xteam
-• AlyaaXzy 
-• BOTCAHX
-• Zeks
-• Penyedia Layanan API
-• Orang-orang yang Berdonasi
+• Kalian semua
+
 `.trim(), watermark, 'Back', '.menu')
 handler.help = ['Thanksto', 'tqto']
 handler.tags = ['main']
