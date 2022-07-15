@@ -23,30 +23,14 @@ let chat = `┏━━⬣ 𝙄𝙉𝙁𝙊
 ┃⬡ /statusbot
 ┗⬣
 
-┏━━⬣ 𝙎𝙏𝙍𝙀𝙎 𝙈𝙀𝙉𝙐
-┃
-┃⬡ /wangy
-┃⬡ /nenen
-┃⬡ /simp
-┃⬡ /sherk
-┗⬣
-
-┏━━⬣ 𝘼𝙋𝙄 𝙈𝙀𝙉𝙐
-┃
-┃⬡ /generatekey
-┃⬡ /cekey
-┗⬣
-
 ┏━━⬣ 𝘼𝙉𝙄𝙈𝙀 𝙈𝙀𝙉𝙐
 ┃
-┃⬡ /husbu
 ┃⬡ /kuso <query>
 ┃⬡ /kusonime <query>
 ┃⬡ /loli
 ┃⬡ /lolivid (Limit)
 ┃⬡ /asupanloli (Limit)
 ┃⬡ /megumin
-┃⬡ /neko
 ┃⬡ /otakulatest
 ┃⬡ /otakudesulatest
 ┃⬡ /otakusearch <query>
@@ -55,7 +39,6 @@ let chat = `┏━━⬣ 𝙄𝙉𝙁𝙊
 ┃⬡ /ppwibu
 ┃⬡ /sagiri
 ┃⬡ /charanime <name>
-┃⬡ /nekogif (sfw)
 ┃⬡ /shota
 ┃⬡ /waifu
 ┗⬣
@@ -100,7 +83,6 @@ let chat = `┏━━⬣ 𝙄𝙉𝙁𝙊
 ┏━━⬣ 𝙎𝙏𝙄𝘾𝙆𝙀𝙍
 ┃
 ┃⬡ /attp <teks>
-┃⬡ /blowjob
 ┃⬡ /circle
 ┃⬡ /colong
 ┃⬡ /ctrigger <text> (Limit)
@@ -151,8 +133,6 @@ let chat = `┏━━⬣ 𝙄𝙉𝙁𝙊
 ┃⬡ /glitchtext2
 ┃⬡ /harrypotter
 ┃⬡ /watercolor
-┃⬡ /bpink
-┃⬡ /pornhub
 ┃⬡ /phlogo
 ┗⬣
 
@@ -236,37 +216,8 @@ let chat = `┏━━⬣ 𝙄𝙉𝙁𝙊
 ┃⬡ /totalpesan
 ┗⬣
 
-┏━━⬣ 𝙋𝙍𝙀𝙈𝙄𝙐𝙈
-┃
-┃⬡ /join <chat.whatsapp.com>
-┗⬣
-
-┏━━⬣ 𝙉𝙎𝙁𝙒
-┃
-┃⬡ /ahegao (Limit)
-┃⬡ /ass (Limit)
-┃⬡ /boobs (Limit)
-┃⬡ /ecchi (Limit)
-┃⬡ /hentai (Limit)
-┃⬡ /masturbation (Limit)
-┃⬡ /nekodl <url> (Limit)
-┃⬡ /nekolatest (Limit)
-┃⬡ /nekopoilatest (Limit)
-┃⬡ /nhsearch <query> (Limit)
-┃⬡ /nhentaisearch <query> (Limit)
-┃⬡ /nh <code> (Limit)
-┃⬡ /nhentai <code> (Limit)
-┃⬡ /nsfwloli
-┃⬡ /nsfwneko (Limit)
-┃⬡ /pussy (Limit)
-┃⬡ /sideboobs (Limit)
-┃⬡ /trap (Limit)
-┃⬡ /yuri (Limit)
-┗⬣
-
 ┏━━⬣ 𝙄𝙉𝙏𝙀𝙍𝙉𝙀𝙏
 ┃
-┃⬡ /asupan
 ┃⬡ /ptlvideo
 ┃⬡ /ptlvid
 ┃⬡ /bitly <url>
@@ -440,7 +391,6 @@ let chat = `┏━━⬣ 𝙄𝙉𝙁𝙊
 
 ┏━━⬣ 𝙁𝙐𝙉
 ┃
-┃⬡ /asupan
 ┃⬡ /ptlvideo
 ┃⬡ /ptlvid
 ┃⬡ /changemymind <teks>
