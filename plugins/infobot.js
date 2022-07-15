@@ -5,7 +5,7 @@ let path = require('path')
 let moment = require('moment-timezone')
 let fetch = require('node-fetch')
 let handler = async(m, { conn }) => {
-  await m.reply('⏳𝙎𝘼𝘽𝘼𝙍 𝘿𝙄 𝙀𝙒𝙀 𝘿𝙐𝙇𝙐...')
+  await m.reply('⏳Loading...')
     let kontol = `
 
 ╭─❒ 〘 𝗕 𝗢 𝗧   𝗜 𝗡 𝗙 𝗢 〙 
@@ -14,16 +14,8 @@ let handler = async(m, { conn }) => {
 ├ Versi : 1.5.0
 ╰❒
 
-╭─❒ 〘 𝗗 𝗢 𝗡 𝗔 𝗦 𝗜 〙 
-├ DANA [6281360482998]
-├ PULSA [6281360482998]
-╰❒ 
-
 ╭─❒〘 𝗣 𝗜 𝗥 𝗔 𝗖 𝗬   𝗕 𝗢 𝗧 〙 
-├ ➥KAMI TIDAK BERTANGGUNG
-├  JAWAB ATAS PENYALAHGUNAAN BOT
-├ ➥KAMI TIDAK BERTANGGUNG
-├  JAWAB ATAS KEBOCORAN DATA
+├ ➥JANGAN DISALAH GUNAKAN
 ├ ➥PRIBADI ANDA 
 ├  KAMI AKAN MENYIMPAN DATA
 ├  SEPERTI NOMER TELEPON
@@ -35,7 +27,6 @@ let handler = async(m, { conn }) => {
         description: kontol,
         sections:  [{title: "Silahkan di pilih gausah pilih yang gaada", rows: [
         {title: 'Menu Utama', description: "Kembali ke Menu Utama", rowId:".?"},
-        {title: 'Sewa Bot', description: "Sewa bot dengan memasukkan bot ke grup kamu", rowId:".sewa"},
         {title: 'Owner', description: "CHAT BAGI YANG KEPENTINGAN", rowId:".owner"},
        ] }],
         listType: 1
