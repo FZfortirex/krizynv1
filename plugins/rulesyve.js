@@ -36,7 +36,7 @@ let handler = async(m, { conn }) => {
 `.trim()
   const button = {
         buttonText: 'Klik Disini',
-        description: kontol,
+        description: -,
         sections:  [{title: "Silahkan di pilih gausah pilih yang gaada", rows: [
         {title: 'Menu Utama', description: "Kembali ke Menu Utama", rowId:".?"},
         {title: 'Owner', description: "CHAT BAGI YANG KEPENTINGAN", rowId:".owner"},
