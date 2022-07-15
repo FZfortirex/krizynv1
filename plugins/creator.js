@@ -1214,8 +1214,7 @@ END:VCARD
 `.trim()
     }]
   }, MessageType.contactsArray, { quoted: m })
-m.reply('*Mau ngapain ngab cari owner? Donasi ? sewabot? Gass..*')
-m.reply('NOTE:\nGak butuh save cuman modal mandang fisik!\nMentang mentang ganteng lu minta save!\n\nUntuk cewek kalau serius gas pelaminan dengan harga minim or semampunya!\n\nUntuk cowok mau ngapain lu tod? gw gak gay!')
+m.reply('*Burhanuddin Zain*')
 }
 handler.help = ['owner', 'creator']
 handler.tags = ['info']
